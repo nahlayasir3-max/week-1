@@ -18,6 +18,6 @@ hyper text markeup language for web pages
 &cent;  
 &euro;  
 
-## Why I used '<dl>' not '<ul>'
-I used '<dl>' because it shows a  description , '<ul>'  does not show description only the data of cell
+## Why I used  `<dl>` not `<ul>`
+I used `<dl>` because it shows a  description , `<ul>`  does not show description only the data of cell
 
